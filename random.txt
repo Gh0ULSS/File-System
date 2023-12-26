@@ -1,0 +1,2 @@
+84a5s6d4f8as5df64d8f45adf
+./privesc -lv ubuntu -v 18.06
