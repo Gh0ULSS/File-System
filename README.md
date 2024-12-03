@@ -1,4 +1,4 @@
-# Secure File System Simulation using C
+# Secure File System Simulation using C++
 
 ### Compile Instructions:
 
